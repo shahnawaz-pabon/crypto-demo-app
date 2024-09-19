@@ -18,9 +18,9 @@ A simple demo app that interacts with the Ethereum blockchain using MetaMask. Th
 
 ## Prerequisites
 
-- **Node.js:** Ensure that Node.js and npm (Node Package Manager) are installed on your system. You can download them from nodejs.org.
-- **MetaMask:** Install MetaMask extension for your browser. MetaMask.
-- **Infura Project ID:** Sign up at Infura to get a free API key.
+- **Node.js:** Ensure that Node.js and npm (Node Package Manager) are installed on your system. You can download them from [nodejs.org](https://nodejs.org/).
+- **MetaMask:** Install MetaMask extension for your browser. [MetaMask](https://metamask.io/).
+- **Infura Project ID:** Sign up at [Infura](https://infura.io/) to get a free API key.
 
 ## Setup and Run
 
