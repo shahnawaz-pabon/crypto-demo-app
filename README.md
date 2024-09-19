@@ -2,12 +2,23 @@
   <h1>Crypto Demo App</h1>
 </div>
 
-A simple demo app that interacts with the Ethereum blockchain using MetaMask. This app showcases basic wallet functionality, such as viewing the wallet balance and sending ETH transactions.
-
 # Table of Contents
+- [Introduction](#introduction)
+- [Architecture](#architecture)
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Setup and Run](#setup-and-run)
+
+
+## Introduction
+- Overview of the Crypto Demo App.
+- A simple demo app that interacts with the Ethereum blockchain using MetaMask. This app showcases basic wallet functionality, such as viewing the wallet balance and sending ETH transactions.
+
+## Architecture
+
+- **Frontend:** React.js with Web3.js integration.
+- **Blockchain:** Ethereum public node via Infura.
+
 
 ## Features
 
